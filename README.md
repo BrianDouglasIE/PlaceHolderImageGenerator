@@ -1,4 +1,4 @@
-# Placeholder Image Generator (Java)
+# Placeholder Image Generator
 
 This simple utility generates customizable placeholder images in Java using AWT. It is useful for creating mock user avatars, image placeholders in UI development, or dynamically generated image content.
 
