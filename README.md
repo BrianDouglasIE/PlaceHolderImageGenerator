@@ -1,4 +1,4 @@
-[![javadoc](https://javadoc.io/badge2/ie.briandouglas/PlaceHolderImageGenerator/javadoc.svg)](https://javadoc.io/doc/ie.briandouglas/PlaceHolderImageGenerator)
+[![javadoc](https://javadoc.io/badge2/ie.briandouglas/PlaceholderImageGenerator/javadoc.svg)](https://javadoc.io/doc/ie.briandouglas/PlaceholderImageGenerator)
 
 # Placeholder Image Generator
 
@@ -18,7 +18,7 @@ Add the following dependency to your Maven `pom.xml`:
 ```xml
 <dependency>
     <groupId>ie.briandouglas</groupId>
-    <artifactId>PlaceHolderImageGenerator</artifactId>
+    <artifactId>PlaceholderImageGenerator</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
@@ -27,7 +27,7 @@ Or if you're using Gradle:
 
 ```kotlin
 dependencies {
-    implementation("ie.briandouglas:PlaceHolderImageGenerator:1.0.0")
+    implementation("ie.briandouglas:PlaceholderImageGenerator:1.0.0")
 }
 ```
 
@@ -36,9 +36,9 @@ dependencies {
 ```java
 public class Main {
     public static void main(String[] args) throws IOException {
-        var placeHolderImage = new PlaceHolderImage();
+        var placeholderImage = new PlaceholderImage();
 
-        var options = PlaceHolderImageOptions.builder()
+        var options = PlaceholderImageOptions.builder()
                 .text("BD")
                 .width(400)
                 .height(400)
@@ -46,7 +46,7 @@ public class Main {
                 .font(new Font("Arial", Font.BOLD, 200))
                 .build();
 
-        var image = placeHolderImage.generate(options);
+        var image = placeholderImage.generate(options);
         ImageIO.write(image, "png", new File("placeholder.png"));
         System.out.println("Generated placeholder.png");
     }
@@ -59,14 +59,14 @@ This example will generate a centered `"BD"` in bold Arial on a `400x400` image 
 
 ## Documentation
 
-See [javadoc.io](https://javadoc.io/doc/ie.briandouglas/PlaceHolderImageGenerator/latest/index.html)
+See [javadoc.io](https://javadoc.io/doc/ie.briandouglas/PlaceholderImageGenerator/latest/index.html)
 
-### `PlaceHolderImageOptions`
+### `PlaceholderImageOptions`
 
 Encapsulates configuration options for generating a placeholder image.
 
 ```java
-PlaceHolderImageOptions.builder()
+PlaceholderImageOptions.builder()
     .text("AB")                                // Text to display
     .width(300)                                // Width in pixels
     .height(300)                               // Height in pixels
@@ -77,12 +77,12 @@ PlaceHolderImageOptions.builder()
     .build();
 ```
 
-### `PlaceHolderImage`
+### `PlaceholderImage`
 
-Generates a `BufferedImage` using the provided `PlaceHolderImageOptions`.
+Generates a `BufferedImage` using the provided `PlaceholderImageOptions`.
 
 ```java
-BufferedImage image = new PlaceHolderImage().generate(options);
+BufferedImage image = new PlaceholderImage().generate(options);
 ```
 
 ## Dependencies

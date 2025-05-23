@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ie.briandouglas</groupId>
-    <artifactId>PlaceHolderImageGenerator</artifactId>
+    <artifactId>PlaceholderImageGenerator</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>PlaceHolderImageGenerator</name>
+    <name>PlaceholderImageGenerator</name>
     <description>A lightweight Java utility for generating placeholder images.</description>
-    <url>https://github.com/BrianDouglasIE/PlaceHolderImageGenerator</url>
+    <url>https://github.com/BrianDouglasIE/PlaceholderImageGenerator</url>
 
     <licenses>
         <license>
@@ -28,9 +28,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/BrianDouglasIE/PlaceHolderImageGenerator.git</connection>
-        <developerConnection>scm:git:ssh://github.com/BrianDouglasIE/PlaceHolderImageGenerator.git</developerConnection>
-        <url>https://github.com/BrianDouglasIE/PlaceHolderImageGenerator</url>
+        <connection>scm:git:git://github.com/BrianDouglasIE/PlaceholderImageGenerator.git</connection>
+        <developerConnection>scm:git:ssh://github.com/BrianDouglasIE/PlaceholderImageGenerator.git</developerConnection>
+        <url>https://github.com/BrianDouglasIE/PlaceholderImageGenerator</url>
     </scm>
 
     <properties>

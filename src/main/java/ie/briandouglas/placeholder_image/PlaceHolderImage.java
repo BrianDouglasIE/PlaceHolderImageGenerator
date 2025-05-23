@@ -6,7 +6,7 @@ import java.awt.image.BufferedImage;
 /**
  * Generates placeholder image based on the provided options.
  */
-public class PlaceHolderImage {
+public class PlaceholderImage {
 
     /**
      * Generates a placeholder image using the provided options.
@@ -14,7 +14,7 @@ public class PlaceHolderImage {
      * @param options Configuration options for the placeholder image.
      * @return BufferedImage containing the rendered placeholder.
      */
-    public BufferedImage generate(PlaceHolderImageOptions options) {
+    public BufferedImage generate(PlaceholderImageOptions options) {
         BufferedImage image = new BufferedImage(options.getWidth(), options.getHeight(), BufferedImage.TYPE_INT_RGB);
         Graphics2D g2d = image.createGraphics();
 

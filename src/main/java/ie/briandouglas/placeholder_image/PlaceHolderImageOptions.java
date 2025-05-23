@@ -10,7 +10,7 @@ import java.awt.*;
  */
 @Data
 @Builder
-public class PlaceHolderImageOptions {
+public class PlaceholderImageOptions {
 
     /**
      * The text to be displayed in the placeholder image.
