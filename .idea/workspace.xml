@@ -5,91 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03b4c89-f5b6-4c08-82d9-c0d27b9d7005" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0-javadoc.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0-sources.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PlaceHolderImageGenerator-1.0.0.pom.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/copy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/placeholder_image/PlaceHolderImage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/placeholder_image/PlaceHolderImageOptions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/placeholder_image/class-use/PlaceHolderImage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/placeholder_image/class-use/PlaceHolderImageOptions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/placeholder_image/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/placeholder_image/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ie/briandouglas/placeholder_image/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/COPYRIGHT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/jquery.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/jqueryUI.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/link.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/module-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/search-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/tag-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-publishing/central-bundle.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-javadoc.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-javadoc.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-javadoc.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-javadoc.jar.sha256" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-javadoc.jar.sha512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-sources.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-sources.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-sources.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-sources.jar.sha256" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0-sources.jar.sha512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.jar.sha256" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.jar.sha512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.pom.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.pom.sha256" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/central-staging/ie/briandouglas/PlaceHolderImageGenerator/1.0.0/PlaceHolderImageGenerator-1.0.0.pom.sha512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/briandouglas/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/briandouglas/placeholder_image/PlaceHolderImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/briandouglas/placeholder_image/PlaceHolderImageOptions$PlaceHolderImageOptionsBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/briandouglas/placeholder_image/PlaceHolderImageOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,7 +253,7 @@
       <workItem from="1747993211917" duration="3246000" />
       <workItem from="1747996492669" duration="9000" />
       <workItem from="1747996509681" duration="349000" />
-      <workItem from="1747997178595" duration="713000" />
+      <workItem from="1747997178595" duration="1117000" />
     </task>
     <servers />
   </component>

@@ -9,7 +9,55 @@ This simple utility generates customizable placeholder images in Java using AWT.
 * Configure text and background colors
 * Enable or disable anti-aliasing for smoother text rendering
 
-## Classes Overview
+## Installation
+
+Add the following dependency to your Maven `pom.xml`:
+
+```xml
+<dependency>
+    <groupId>ie.briandouglas</groupId>
+    <artifactId>PlaceHolderImageGenerator</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+Or if you're using Gradle:
+
+```kotlin
+dependencies {
+    implementation("ie.briandouglas:PlaceHolderImageGenerator:1.0.0")
+}
+```
+
+## Example usage:
+
+```java
+public class Main {
+    public static void main(String[] args) throws IOException {
+        var placeHolderImage = new PlaceHolderImage();
+
+        var options = PlaceHolderImageOptions.builder()
+                .text("BD")
+                .width(400)
+                .height(400)
+                .backgroundColor(Color.decode("#DCDCDC"))
+                .font(new Font("Arial", Font.BOLD, 200))
+                .build();
+
+        var image = placeHolderImage.generate(options);
+        ImageIO.write(image, "png", new File("placeholder.png"));
+        System.out.println("Generated placeholder.png");
+    }
+}
+```
+
+This example will generate a centered `"BD"` in bold Arial on a `400x400` image with a light gray background, saved as `placeholder.png`.
+
+![Example placeholder image](./placeholder.png)
+
+## Documentation
+
+See [javadoc.io](https://javadoc.io/doc/ie.briandouglas/PlaceHolderImageGenerator/latest/index.html)
 
 ### `PlaceHolderImageOptions`
 
@@ -34,36 +82,6 @@ Generates a `BufferedImage` using the provided `PlaceHolderImageOptions`.
 ```java
 BufferedImage image = new PlaceHolderImage().generate(options);
 ```
-
-### `Main`
-
-Sample usage:
-
-```java
-public class Main {
-    public static void main(String[] args) throws IOException {
-        var placeHolderImage = new PlaceHolderImage();
-
-        var options = PlaceHolderImageOptions.builder()
-                .text("BD")
-                .width(400)
-                .height(400)
-                .backgroundColor(Color.decode("#DCDCDC"))
-                .font(new Font("Arial", Font.BOLD, 200))
-                .build();
-
-        var image = placeHolderImage.generate(options);
-        ImageIO.write(image, "png", new File("placeholder.png"));
-        System.out.println("Generated placeholder.png");
-    }
-}
-```
-
-## Output
-
-This example will generate a centered `"BD"` in bold Arial on a `400x400` image with a light gray background, saved as `placeholder.png`.
-
-![Example placeholder image](./placeholder.png)
 
 ## Dependencies
 
