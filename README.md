@@ -1,5 +1,5 @@
 ![Maven Central Version](https://img.shields.io/maven-central/v/ie.briandouglas/PlaceholderImageGenerator)
-
+[![javadoc](https://javadoc.io/badge2/ie.briandouglas/PlaceholderImageGenerator/javadoc.svg)](https://javadoc.io/doc/ie.briandouglas/PlaceholderImageGenerator)
 
 
 # Placeholder Image Generator
