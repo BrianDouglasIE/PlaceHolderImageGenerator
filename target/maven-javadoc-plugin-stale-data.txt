@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/brian/.m2/repository/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/brian/projects/PlaceHolderImageGenerator/src/main/java;C:/Users/brian/projects/PlaceHolderImageGenerator/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/brian/projects/PlaceHolderImageGenerator/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PlaceHolderImageGenerator 1.0.0 API'
+-use
+-version
+-windowtitle
+'PlaceHolderImageGenerator 1.0.0 API'
+ie.briandouglas
+ie.briandouglas.placeholder_image
+C:\Users\brian\.m2\repository\org\projectlombok\lombok\1.18.38\lombok-1.18.38.jar = 1747996522340
+C:\Users\brian\projects\PlaceHolderImageGenerator\src\main\java = 1747909781047
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\generated-sources\annotations = 1747997695431
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\allclasses-index.html = 1747997698975
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\allpackages-index.html = 1747997698977
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\copy.svg = 1747997698993
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\element-list = 1747997698927
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\help-doc.html = 1747997698990
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\index-all.html = 1747997698985
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\index.html = 1747997698968
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\link.svg = 1747997698994
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\member-search-index.js = 1747997698980
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\module-search-index.js = 1747997698978
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\overview-summary.html = 1747997698987
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\overview-tree.html = 1747997698966
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\package-search-index.js = 1747997698978
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\script.js = 1747997698992
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\search-page.js = 1747997698996
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\search.html = 1747997698986
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\search.js = 1747997698995
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\stylesheet.css = 1747997698991
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\tag-search-index.js = 1747997698980
+C:\Users\brian\projects\PlaceHolderImageGenerator\target\apidocs\type-search-index.js = 1747997698979

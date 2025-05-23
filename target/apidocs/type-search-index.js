@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ie.briandouglas.placeholder_image","l":"PlaceHolderImage"},{"p":"ie.briandouglas.placeholder_image","l":"PlaceHolderImageOptions"}];updateSearchResults();

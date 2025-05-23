@@ -3,7 +3,17 @@ package ie.briandouglas.placeholder_image;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 
+/**
+ * Generates placeholder image based on the provided options.
+ */
 public class PlaceHolderImage {
+
+    /**
+     * Generates a placeholder image using the provided options.
+     *
+     * @param options Configuration options for the placeholder image.
+     * @return BufferedImage containing the rendered placeholder.
+     */
     public BufferedImage generate(PlaceHolderImageOptions options) {
         BufferedImage image = new BufferedImage(options.getWidth(), options.getHeight(), BufferedImage.TYPE_INT_RGB);
         Graphics2D g2d = image.createGraphics();
