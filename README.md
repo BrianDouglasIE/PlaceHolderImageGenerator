@@ -21,7 +21,7 @@ Add the following dependency to your Maven `pom.xml`:
 <dependency>
     <groupId>ie.briandouglas</groupId>
     <artifactId>PlaceholderImageGenerator</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
@@ -29,7 +29,7 @@ Or if you're using Gradle:
 
 ```kotlin
 dependencies {
-    implementation("ie.briandouglas:PlaceholderImageGenerator:1.0.0")
+    implementation("ie.briandouglas:PlaceholderImageGenerator:1.0.1")
 }
 ```
 
